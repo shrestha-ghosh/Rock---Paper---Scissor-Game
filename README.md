@@ -18,4 +18,4 @@ A simple web-based Rock Paper Scissors game built with HTML, CSS, and JavaScript
 
 - `index.html`: Game interface
 - `style.css`: Styles
-- `script.js`: Game logic
+- `app.js`: Game logic
